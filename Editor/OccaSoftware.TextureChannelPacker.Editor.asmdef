@@ -1,0 +1,16 @@
+{
+    "name": "OccaSoftware.TextureChannelPacker.Editor",
+    "rootNamespace": "OccaSoftware.TextureChannelPacker.Editor",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
